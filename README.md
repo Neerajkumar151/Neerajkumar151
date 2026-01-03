@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently Preparing for **Placements**
 
-- 💬 Ask me about **Frontend**
+- 💬 Ask me about **GeanAI**
 
 - 📫 How to reach me: [thakurneerajkumar17@gmail.com](mailto:thakurneerajkumar17@gmail.com)
 
