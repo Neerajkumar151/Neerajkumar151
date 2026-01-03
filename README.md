@@ -2,18 +2,22 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">💫 Hi 👋, I'm Neeraj Kumar</h1>
-<h3 align="center">B.Tech IT Final Year Student | GenAI Developer | GL Bajaj, Greater Noida</h3>
+
+<p align="center">
+ 🚀 Final-year IT student at <b>G.L Bajaj Institute of Technology and Management</b><br>
+Passionate about building <b>real-world web applications</b><br>
+with <b>GenAI, JavaScript, React, and modern full-stack tools</b>
+</p>
+
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/x2M7czyyeJMsptSeTj-xP2zNpc12XE3ZSZ9v7L1V3Qw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlR1JwT1hkM05t/NWhiSEE0WTJwaVpX/ZGxOalp2WW5nNWNq/VnhhSGh2ZW1wNlpY/RmpPR0Z4WmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif">
 
-- 🔭 I’m currently working on **GenieAi (Content creation and Generation Web App)**
+- 🔭 Currently building **GenieAI** – a GenAI-powered content creation web app
 
-- 🌱 I’m currently Preparing for **Placements**
+- 🌱 Actively preparing for **Software Developer / GenAI roles** 
 
-- 💬 Ask me about **GenAI**
+- 💬 Comfortable discussing **GenAI, Web Development, and System Basics**
 
 - 📫 How to reach me: [thakurneerajkumar17@gmail.com](mailto:thakurneerajkumar17@gmail.com)
-
-- ⚡ Fun fact **I am Funny**
 
 
 [![](https://visitcount.itsvg.in/api?id=Neerajkumar151&icon=0&color=0)](https://visitcount.itsvg.in)
@@ -30,6 +34,58 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neerajkumar1517) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/neerajkumar1715) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:thakurneerajkumar17@gmail.com) [![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?logo=HackerRank&logoColor=white)](https://www.hackerrank.com/neerajkumar1517)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?logo=LeetCode&logoColor=black)](https://www.leetcode.com/neerajkumar17)
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?logo=GeeksforGeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/thakurneeraj1517)
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 LoanPal – AI-Driven Loan Application & Verification Platform
+> A production-oriented fintech platform that enables users to apply for loans, upload documents, and receive automated approval or rejection using AI-assisted validation.
+
+* **What it does:**
+    * **Automated Workflow:** Users apply via a guided flow where AI checks document correctness and completeness.
+    * **Instant Decisions:** Loans are approved or rejected automatically based on verification results.
+    * **AI Loan Assistant:** A dedicated chatbot acts as a virtual agent to guide users through the process.
+    * **Financial Dashboard:** Interactive tracking of loan status, history, and a built-in EMI calculator.
+
+* **Why it matters:**
+    * Simulates real-world fintech workflows used by NBFCs and banks.
+    * Reduces manual verification effort and improves trust through transparency.
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![GenAI](https://img.shields.io/badge/Gen_AI-8A2BE2?style=flat&logo=openai&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat&logo=chartdotjs&logoColor=white)
+
+[🔗 Live Demo](https://loan-pal-new.vercel.app/) | [💻 Source Code](https://github.com/Neerajkumar151/LoanPal)
+
+---
+
+### 🌱 KrishiSanjivni – Smart Farming & Equipment Platform
+> A digital platform built to support farmers by providing access to agricultural tools, resources, and AI-assisted guidance.
+
+* **Key Highlights:**
+    * Tool & equipment discovery with availability status
+    * Clean, minimal UI focused on usability for rural users
+    * Designed to scale for real agricultural workflows
+
+**Tech Stack:**
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white) ![AI Integration](https://img.shields.io/badge/AI_Integration-000?style=flat&logo=openai&logoColor=white)
+
+[🔗 Live Demo](https://krishisanjivni.vercel.app/) | [💻 Source Code](https://github.com/Neerajkumar151/KrishiSanjivni)
+
+---
+
+### 🤖 GenieAI – GenAI-Powered Content Creation Platform
+> An AI-driven web application that generates high-quality content such as blogs, captions, and ideas using Generative AI.
+
+* **Key Highlights:**
+    * Prompt-driven content generation workflow
+    * Clean UX optimized for creators and students
+    * Practical use of GenAI beyond demos
+
+**Tech Stack:**
+![React](https://img.shields.io/badge/React-20232a?style=flat&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black) ![GenAI](https://img.shields.io/badge/Gen_AI-8A2BE2?style=flat)
+
+[🔗 Live Demo](https://genie-ai-wine.vercel.app/) | [💻 Source Code](https://github.com/Neerajkumar151/GenieAi)
 
 
 
