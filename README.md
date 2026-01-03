@@ -2,7 +2,7 @@
 [![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://rishavchanda.io)
 
 <h1 align="center">💫 Hi 👋, I'm Neeraj Kumar</h1>
-<h3 align="center">B.Tech IT Final Year Student | Developer | GL Bajaj, Greater Noida</h3>
+<h3 align="center">B.Tech IT Final Year Student | GenAI Developer | GL Bajaj, Greater Noida</h3>
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/x2M7czyyeJMsptSeTj-xP2zNpc12XE3ZSZ9v7L1V3Qw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlR1JwT1hkM05t/NWhiSEE0WTJwaVpX/ZGxOalp2WW5nNWNq/VnhhSGh2ZW1wNlpY/RmpPR0Z4WmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif">
 
 - 🔭 I’m currently working on **GenieAi (Content creation and Generation Web App)**
