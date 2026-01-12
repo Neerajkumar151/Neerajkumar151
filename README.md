@@ -15,7 +15,7 @@ with <b>GenAI, JavaScript, React, and modern full-stack tools</b>
 
 - 🌱 Actively preparing for **Software Developer / GenAI roles** 
 
-- 💬 Comfortable discussing **GenAI, Web Development, and System Basics**
+- 💬 Comfortable discussing **GenAI, Web Development, and AI**
 
 - 📫 How to reach me: [thakurneerajkumar17@gmail.com](mailto:thakurneerajkumar17@gmail.com)
 
