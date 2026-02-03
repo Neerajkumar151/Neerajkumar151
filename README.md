@@ -26,7 +26,7 @@ with <b>GenAI, JavaScript, React, and modern full-stack tools</b>
 
 
 ## 🏆 GitHub Trophies
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Neerajkumar151" alt="neerajkumar151" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=Neerajkumar151" alt="neerajkumar151" /></a> </p>
 
 
 
