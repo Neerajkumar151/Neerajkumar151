@@ -11,7 +11,7 @@ with <b>GenAI, JavaScript, React, and modern full-stack tools</b>
 
 <img align="right" alt="Coding" width="350" src="https://imgs.search.brave.com/x2M7czyyeJMsptSeTj-xP2zNpc12XE3ZSZ9v7L1V3Qw/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRp/YTIuZ2lwaHkuY29t/L21lZGlhL3YxLlky/bGtQVGM1TUdJM05q/RXhlR1JwT1hkM05t/NWhiSEE0WTJwaVpX/ZGxOalp2WW5nNWNq/VnhhSGh2ZW1wNlpY/RmpPR0Z4WmlabGNE/MTJNVjluYVdaelgz/TmxZWEpqYUNaamRE/MW4vYkdnc2M1bVdv/cnlmZ0tCeDF1L2dp/cGh5LmdpZg.gif">
 
-- 🔭 Currently building **GenieAI** – a GenAI-powered content creation web app
+- 🔭 Currently building **GenieAI** – a GenAI-powered content creation web app(completed)
 
 - 🌱 Actively preparing for **Software Developer / GenAI roles** 
 
